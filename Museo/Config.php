@@ -9,7 +9,7 @@ class Config {
 			'dbHost'     => 'localhost',
 			'dbName'     => 'museo',
 			'dbUser'     => 'root',
-			'dbPassword' => 'ciatalm777',
+			'dbPassword' => '',
 			'debug'      => true,
 		);
 	}
